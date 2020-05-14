@@ -2,4 +2,4 @@
 
 It is important to place a space after the two hash symbols "##" otherwise it is not correctly rendered:
 
-##This is not corrctly rendered
+##This is not correctly rendered
